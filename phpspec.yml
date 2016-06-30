@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: social
+        psr4_prefix: social
+        src_path: app
